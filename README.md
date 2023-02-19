@@ -12,3 +12,7 @@ git init
 |---|---|
 |add|스테이지|
 |commit|커밋|
+
+```bash
+chmod +x asdf.sh
+```
